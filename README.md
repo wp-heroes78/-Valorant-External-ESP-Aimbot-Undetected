@@ -28,7 +28,7 @@ Passwrod: `2023`
 -----------------------------------------------------------------------------------------------------------------------
 
 # Anti-cheat status
-- Vanti-cheat bypass
+- anti-cheat bypass
 
 # Game version
 - Latest version for PC [Valorant Launcher]
